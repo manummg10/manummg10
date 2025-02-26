@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Me l:lamo Manu Moraira Garcia</h1>
+<h1 align="center">Hola 👋, Me llamo Manu Moraira Garcia</h1>
 <h3 align="center">Soy un Frontend apasionado</h3>
 
 - 💬 Ask me about **html, css, javascript y reactjs**
