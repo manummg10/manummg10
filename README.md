@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Me llamo Manu Moraira Garcia</h1>
 <h3 align="center">Soy un Frontend apasionado</h3>
 
-- 💬 Ask me about **html, css, javascript y reactjs**
+- 💬 Ask me about **html, css, java y javascript**
 
 - 📫 How to reach me **manummg10@gmail.com**
 
