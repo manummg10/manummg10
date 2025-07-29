@@ -67,9 +67,9 @@ Desarrollador full stack en formacion, me encanta construir aplicaciones web lim
 ## 📊 Visitas
 
 <p align="center">
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=manummg10.manummg10)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=manummg10.manummg10" alt="Visitor Count" />
   &nbsp;&nbsp;
-  ![Profile Views](https://hits.sh/github.com/manummg10.svg)
+  <img src="https://hits.sh/github.com/manummg10.svg" alt="Profile Views" />
 </p>
 
 
