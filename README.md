@@ -1,7 +1,11 @@
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 <h1 align="center">👋 ¡Hola! Soy Manu Moraira Garcia</h1>
 <p align="center">Desarrollador Frontend apasionado por crear experiencias digitales modernas, funcionales y accesibles.</p>
 
-<p align="center">
+### 🌐 Connect with me
+<p align="center">  
+<p align="left">
   <a href="https://manuportfoliobeta.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-Web-0078D4?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
@@ -16,8 +20,14 @@
 ## 🧠 Sobre mí
 
 Desarrollador frontend especializado en **React**, **JavaScript**, y diseño UI/UX. Me encanta construir aplicaciones web limpias, con un enfoque centrado en la experiencia de usuario.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+Creativo+y+detallista;Amante+de+la+UI/UX,+Java+,+y+JavaScript;&center=true&width=500&height=45" />
+</p>
 
-- 🎯 Apasionado por interfaces intuitivas
+--- 
+
+- 🎯 Interfaces limpias y funcionales
+- 📚 Aprendiz en constante evolución
 - 💻 Stack actual: HTML · CSS · Sass · JavaScript · React · Java
 - 🧩 Creativo, curioso y comprometido con el aprendizaje continuo
 
@@ -50,6 +60,15 @@ Desarrollador frontend especializado en **React**, **JavaScript**, y diseño UI/
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manummg10&theme=radical" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manummg10&layout=compact&theme=radical" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+
 
 
 
