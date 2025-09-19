@@ -1,7 +1,7 @@
 
 
 <h1 align="center">👋 ¡Hola! Soy Manu Moraira Garcia</h1>
-<p align="center">Desarrollador Frontend apasionado por crear experiencias digitales modernas, funcionales y accesibles.</p>
+<p align="center">Desarrollador  apasionado por crear experiencias digitales modernas, funcionales y accesibles.</p>
 
 ### 🌐 Connect with me
 <p align="center">  
