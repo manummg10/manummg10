@@ -1,7 +1,7 @@
 
 
 <h1 align="center">👋 ¡Hola! Soy Manu Moraira Garcia</h1>
-<p align="center">Desarrollador  apasionado por crear experiencias digitales modernas, funcionales y accesibles.</p>
+<p align="center">Desarrollador y creador de experiencias digitales modernas, funcionales y accesibles.</p>
 
 ### 🌐 Connect with me
 <p align="center">  
@@ -19,7 +19,7 @@
 
 ## 🧠 Sobre mí
 
-Desarrollador full stack en formacion, me encanta construir aplicaciones web limpias, con un enfoque centrado en la experiencia de usuario.
+Desarrollador full stack en formacion, me gusta construir aplicaciones web limpias, con un enfoque centrado en la experiencia de usuario.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+Creativo+y+detallista;Amante+de+la+UI/UX,+Java+,+y+JavaScript;&center=true&width=500&height=45" />
 </p>
