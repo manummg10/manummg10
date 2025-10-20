@@ -21,7 +21,7 @@
 
 Desarrollador full stack en formacion, me gusta construir aplicaciones web limpias, con un enfoque centrado en la experiencia de usuario.
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer+Creativo+y+detallista;Me+gusta+el+UI/UX,+Java+,+y+JavaScript;&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;UI/UX,Backend+Developer,+Java+,+y+JavaScript;&center=true&width=500&height=45" />
 </p>
 
 --- 
