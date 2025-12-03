@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Manu Moraira García</h1>
+<h1 align="center">👋 ¡Hola! Soy Manu </h1>
 <p align="center">Desarrollador en formación, creando experiencias digitales modernas, accesibles y centradas en el usuario.</p>
 
 ---
