@@ -1,10 +1,12 @@
 
 
-<h1 align="center">👋 ¡Hola! Soy Manu Moraira Garcia</h1>
-<p align="center">Desarrollador y creador de experiencias digitales modernas, funcionales y accesibles.</p>
+<h1 align="center">👋 ¡Hola! Soy Manu Moraira García</h1>
+<p align="center">Desarrollador en formación, orientado a crear experiencias digitales modernas, funcionales y accesibles.</p>
 
-### 🌐 Connect with me
-<p align="center">  
+---
+
+## 🌐 Conecta conmigo
+
 <p align="left">
   <a href="https://manuportfoliobeta.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-Web-0078D4?style=for-the-badge&logo=netlify&logoColor=white" />
@@ -17,21 +19,25 @@
   </a>
 </p>
 
+---
+
 ## 🧠 Sobre mí
 
-Desarrollador full stack en formacion, me gusta construir aplicaciones web limpias, con un enfoque centrado en la experiencia de usuario.
+Soy un desarrollador full stack en formación con especial interés en la construcción de interfaces limpias, intuitivas y orientadas al usuario. Disfruto transformar ideas en experiencias digitales eficientes y accesibles, siempre con una mentalidad de mejora continua.
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;UI/UX;Backend+Developer;&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;UI/UX+Enthusiast;Backend+Developer;&center=true&width=500&height=45" />
 </p>
 
---- 
+### 🚀 Lo que me define
+- 🎯 Enfoque en interfaces modernas, claras y funcionales  
+- 📚 Aprendiz constante, motivado por la mejora continua  
+- 💻 Stack actual: **HTML · CSS · Sass · JavaScript · React · Java**  
+- 🧩 Creativo, curioso y orientado a la resolución de problemas  
 
-- 🎯 Interfaces limpias y funcionales
-- 📚 Aprendiz en constante evolución
-- 💻 Stack actual: HTML · CSS · Sass · JavaScript · React · Java
-- 🧩 Creativo, curioso y comprometido con el aprendizaje continuo
+---
 
-## 🛠️ Tecnologías que uso
+## 🛠️ Tecnologías y herramientas
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,27 +48,33 @@ Desarrollador full stack en formacion, me gusta construir aplicaciones web limpi
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
+---
+
 ## 📬 Contacto
 
 <p align="center">
-  ✉️ manummg10@gmail.com  
-  <br>  
-  💼 [LinkedIn](https://www.linkedin.com/in/manumorairagarcia/) • 🌐 [Portafolio](https://manuportfoliobeta.netlify.app)
+  ✉️ <strong>manummg10@gmail.com</strong>  
+  <br><br>
+  💼 <a href="https://www.linkedin.com/in/manumorairagarcia/">LinkedIn</a> • 🌐 <a href="https://manuportfoliobeta.netlify.app">Portafolio</a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manummg10&show_icons=true&locale=es&theme=radical&cache_seconds=60" alt="github stats" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manummg10&theme=radical" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manummg10&layout=compact&theme=radical" alt="top languages" />
 </p>
+
+---
 
 ## 📊 Visitas
 
