@@ -63,12 +63,13 @@ Soy un desarrollador full stack en formación con especial interés en la constr
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manummg10&show_icons=true&locale=es&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manummg10&show_icons=true&locale=es&theme=radical" alt="github stats" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=manummg10&theme=radical" alt="streak stats" />
 </p>
+
 
 
 ---
