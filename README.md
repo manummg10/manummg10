@@ -50,8 +50,6 @@ Soy un desarrollador full stack en formación, enfocado en construir interfaces 
 
 ## 📈 Actividad en GitHub
 
-> Debido a fallos frecuentes de los servicios automáticos de estadísticas (401, 404, etc.), aquí tienes una sección profesional, estable y siempre visible.
-
 <p align="center">
   <img src="https://img.shields.io/badge/Actividad-Constante-%23ff005c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Enfoque-Frontend-%2300c2ff?style=for-the-badge" />
@@ -67,7 +65,6 @@ Soy un desarrollador full stack en formación, enfocado en construir interfaces 
 
 ## 🐍 Animación de contribuciones (Snake)
 
-> Si quieres, puedo generarte el workflow para que esta animación se actualice automáticamente.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/manummg10/manummg10/output/github-contribution-grid-snake.svg" />
