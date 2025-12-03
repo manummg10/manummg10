@@ -1,7 +1,5 @@
-
-
 <h1 align="center">👋 ¡Hola! Soy Manu Moraira García</h1>
-<p align="center">Desarrollador en formación, orientado a crear experiencias digitales modernas, funcionales y accesibles.</p>
+<p align="center">Desarrollador en formación, creando experiencias digitales modernas, accesibles y centradas en el usuario.</p>
 
 ---
 
@@ -23,17 +21,17 @@
 
 ## 🧠 Sobre mí
 
-Soy un desarrollador full stack en formación con especial interés en la construcción de interfaces limpias, intuitivas y orientadas al usuario. Disfruto transformar ideas en experiencias digitales eficientes y accesibles, siempre con una mentalidad de mejora continua.
+Soy un desarrollador full stack en formación, enfocado en construir interfaces limpias, funcionales y orientadas a la experiencia de usuario. Me motiva mejorar cada día, aprender nuevas tecnologías y crear proyectos que aporten valor.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;UI/UX+Enthusiast;Backend+Developer;&center=true&width=500&height=45" />
 </p>
 
 ### 🚀 Lo que me define
-- 🎯 Enfoque en interfaces modernas, claras y funcionales  
-- 📚 Aprendiz constante, motivado por la mejora continua  
+- 🎯 Interfaces modernas, claras y funcionales  
+- 📚 Aprendiz en constante evolución  
 - 💻 Stack actual: **HTML · CSS · Sass · JavaScript · React · Java**  
-- 🧩 Creativo, curioso y orientado a la resolución de problemas  
+- 🧩 Curioso, creativo y orientado a resolver problemas  
 
 ---
 
@@ -50,6 +48,33 @@ Soy un desarrollador full stack en formación con especial interés en la constr
 
 ---
 
+## 📈 Actividad en GitHub
+
+> Debido a fallos frecuentes de los servicios automáticos de estadísticas (401, 404, etc.), aquí tienes una sección profesional, estable y siempre visible.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Actividad-Constante-%23ff005c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Enfoque-Frontend-%2300c2ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aprendizaje-Continuo-%23ffaa00?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contribuciones-Semanales-%237f00ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repositorios%20Activos-Front%20%7C%20Fullstack-blueviolet?style=flat-square" />
+</p>
+
+---
+
+## 🐍 Animación de contribuciones (Snake)
+
+> Si quieres, puedo generarte el workflow para que esta animación se actualice automáticamente.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manummg10/manummg10/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 📬 Contacto
 
 <p align="center">
@@ -60,29 +85,10 @@ Soy un desarrollador full stack en formación con especial interés en la constr
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manummg10&show_icons=true&locale=es&theme=radical" alt="github stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manummg10&theme=radical" alt="streak stats" />
-</p>
-
-
-
----
-
 ## 📊 Visitas
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=manummg10.manummg10" alt="Visitor Count" />
-  &nbsp;&nbsp;
-  <img src="https://hits.sh/github.com/manummg10.svg" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=manummg10" alt="Visitor Count" />
 </p>
-
-
-
 
 
