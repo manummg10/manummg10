@@ -63,14 +63,7 @@ Soy un desarrollador full stack en formación, enfocado en construir interfaces 
 
 ---
 
-## 🐍 Animación de contribuciones (Snake)
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manummg10/manummg10/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 📬 Contacto
 
