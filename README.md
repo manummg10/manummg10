@@ -1,121 +1,164 @@
-<div align="center">
+<h1 align="center">👋 ¡Hola! Soy Manu </h1>
 
-  <!-- Header Typography & Typing Badge -->
-  <br />
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MANU+MORAIRA;FULL+STACK+DEVELOPER;UI%2FUX+%26+CLEAN+CODE;BUILDING+DIGITAL+EXPERIENCES&center=true&width=600&height=40&color=FFFFFF&vCenter=true&size=20&font=Inter" alt="Header Typing" />
+<p align="center">Desarrollador en formación, creando experiencias digitales modernas, accesibles y centradas en el usuario.</p>
 
-  <p align="center">
-    <strong>Técnico Superior en Desarrollo de Aplicaciones Multiplataforma</strong>
-    <br />
-    <span style="color: #8b949e;">Especializado en interfaces reactivas, arquitecturas limpias y persistencia de datos en la nube.</span>
-  </p>
 
-  <!-- Apple-Style Pill Badges -->
-  <p align="center">
-    <a href="https://manuportfoliobeta.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=apple&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/manumorairagarcia/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:manummg10@gmail.com">
-      <img src="https://img.shields.io/badge/Contacto-1E293B?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-
-</div>
 
 ---
 
-###  Sobre mí
 
-> **Enfoque de diseño:** Simplicidad en la interfaz, precisión en la arquitectura y atención al detalle.
 
-- 💻 **Desarrollo Full Stack:** Construcción de aplicaciones web de extremo a extremo utilizando React, Node.js y .NET C#.
-- 🛢️ **Bases de Datos & Cloud:** Diseño de esquemas relacionales, procedimientos almacenados y despliegues en Aiven MySQL Cloud.
-- 🎨 **Experiencia de Usuario:** Interfaces fluidas, accesibles y minimalistas construidas con Tailwind CSS y Vite.
+## 🌐 Conecta conmigo
 
----
 
-### 🛠️ Ecosistema Tecnológico
 
-**Frontend & Interfaz**
 <p align="left">
-  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwind-css&logoColor=38B2AC" />
-  <img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=646CFF" />
-  <img src="https://img.shields.io/badge/Sass-111827?style=flat-square&logo=sass&logoColor=CC6699" />
+
+  <a href="https://manuportfoliobeta.netlify.app" target="_blank">
+
+    <img src="https://img.shields.io/badge/Portafolio-Web-0078D4?style=for-the-badge&logo=netlify&logoColor=white" />
+
+  </a>
+
+  <a href="mailto:manummg10@gmail.com">
+
+    <img src="https://img.shields.io/badge/Email-manummg10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  </a>
+
+  <a href="https://www.linkedin.com/in/manumorairagarcia/" target="_blank">
+
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  </a>
+
 </p>
 
-**Backend & APIs**
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-111827?style=flat-square&logo=c-sharp&logoColor=239120" />
-  <img src="https://img.shields.io/badge/.NET-111827?style=flat-square&logo=dotnet&logoColor=512BD4" />
-  <img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square&logo=json&logoColor=0055DA" />
+
+
+---
+
+
+
+## 🧠 Sobre mí
+
+
+
+Soy un desarrollador full stack en formación, enfocado en construir interfaces limpias, funcionales y orientadas a la experiencia de usuario. Me motiva mejorar cada día, aprender nuevas tecnologías y crear proyectos que aporten valor.
+
+
+
+<p align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;UI/UX+Enthusiast;Backend+Developer;&center=true&width=500&height=45" />
+
 </p>
 
-**Bases de Datos & Infraestructura**
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/SQL_Server-111827?style=flat-square&logo=microsoftsqlserver&logoColor=CC292B" />
-  <img src="https://img.shields.io/badge/Aiven_Cloud-111827?style=flat-square&logo=aiven&logoColor=FF4F00" />
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" />
+
+
+### 🚀 Lo que me define
+
+- 🎯 Interfaces modernas, claras y funcionales  
+
+- 📚 Aprendiz en constante evolución  
+
+- 💻 Stack actual: **HTML · CSS · Sass · JavaScript · React · Java**  
+
+- 🧩 Curioso, creativo y orientado a resolver problemas  
+
+
+
+---
+
+
+
+## 🛠️ Tecnologías y herramientas
+
+
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+
 </p>
 
----
 
-### 🚀 Proyectos Destacados
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💰 MoneyMind</h3>
-      <p>Plataforma de gestión financiera personal con análisis inteligente de gastos, lectura OCR de tickets e integración de IA.</p>
-      <p><code>React</code> · <code>.NET C#</code> · <code>MySQL</code> · <code>Tailwind</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔮 Bonoloto AI Predictor</h3>
-      <p>Sistema analítico de alta disponibilidad con procesamiento histórico de sorteos, base de datos SSL en la nube y motor predictivo.</p>
-      <p><code>React</code> · <code>Node.js</code> · <code>Express</code> · <code>Aiven MySQL</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Euricar Europa Portal</h3>
-      <p>Portal web corporativo con panel de administración privado (backoffice) para gestión de contenido, noticias y documentación.</p>
-      <p><code>React</code> · <code>Node.js</code> · <code>MySQL</code> · <code>Tailwind</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Enterprise Systems</h3>
-      <p>Diseño de esquemas relacionales, vistas SQL, stored procedures y plantillas en FastReport para software logístico y TPV.</p>
-      <p><code>C#</code> · <code>SQL Server</code> · <code>FastReport</code> · <code>MariaDB</code></p>
-    </td>
-  </tr>
-</table>
 
 ---
 
-### 📊 Actividad & Métricas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manummg10&show_icons=true&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manummg10&layout=compact&theme=github_dark&hide_border=false&border_color=30363d&bg_color=0d1117&hide=html" width="45%" />
-</div>
 
-<br />
+## 📈 Actividad en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stroke-streak.vercel.app/?user=manummg10&theme=github_dark&hide_border=false&border_color=30363d&background=0d1117" width="93%" />
-</div>
+
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Actividad-Constante-%23ff005c?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Enfoque-Frontend-%2300c2ff?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Aprendizaje-Continuo-%23ffaa00?style=for-the-badge" />
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Contribuciones-Semanales-%237f00ff?style=flat-square" />
+
+  <img src="https://img.shields.io/badge/Repositorios%20Activos-Front%20%7C%20Fullstack-blueviolet?style=flat-square" />
+
+</p>
+
+
 
 ---
 
-<div align="center">
-  <br />
-  <sub>Designed with Apple minimalist aesthetic • © Manu Moraira</sub>
-  <br /><br />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=manummg10.manummg10&color=000000" alt="Visitor Count" />
-</div>
+
+
+
+
+
+
+## 📬 Contacto
+
+
+
+<p align="center">
+
+  ✉️ <strong>manummg10@gmail.com</strong>  
+
+  <br><br>
+
+  💼 <a href="https://www.linkedin.com/in/manumorairagarcia/">LinkedIn</a> • 🌐 <a href="https://manuportfoliobeta.netlify.app">Portafolio</a>
+
+</p>
+
+
+
+---
+
+
+
+## 📊 Visitas
+
+
+
+<p align="center">
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=manummg10" alt="Visitor Count" />
+
+</p> 
+
